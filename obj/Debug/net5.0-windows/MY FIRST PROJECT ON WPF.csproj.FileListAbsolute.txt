@@ -1,0 +1,22 @@
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.exe
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.deps.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.runtimeconfig.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.runtimeconfig.dev.json
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\ref\MY FIRST PROJECT ON WPF.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\bin\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.csproj.AssemblyReference.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF_MarkupCompile.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF_MarkupCompile.lref
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.g.resources
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.AssemblyInfoInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.AssemblyInfo.cs
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.csproj.CoreCompileInputs.cache
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\ref\MY FIRST PROJECT ON WPF.dll
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.pdb
+C:\Users\AHAD RAZA\Desktop\WPF PROJECT 21\MY FIRST PROJECT ON WPF\obj\Debug\net5.0-windows\MY FIRST PROJECT ON WPF.genruntimeconfig.cache
